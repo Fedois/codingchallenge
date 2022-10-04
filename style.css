@@ -1,0 +1,59 @@
+
+*{
+  margin: 0;
+}
+body{
+  background-image: url("background.jpg");
+  background-size: cover;
+}
+.contenitor{
+  width: 50%;
+  margin: 20px auto;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 70px 90px;
+  border-radius: 15px;
+  font-family: 'Poppins', sans-serif;
+}
+header{
+  text-align: center;
+  color: lime;
+}
+header img{
+  width: 200px;
+}
+nav{
+  text-align: center;
+  background-color: lime;
+  padding: 5px;
+}
+nav input{
+  font-size: 10px;
+}
+main{
+  margin-top: 15px;
+  color: white;
+  font-size: 12px;
+}
+section h2{
+  display: inline-block;
+}
+section input{
+  width: 11px;
+  margin: 0 3px;
+}
+section .battery{
+  height: 25px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.orange{
+  width: 35%;
+  background-color: #FFC459;
+}
+.green{
+  width: 60%;
+  background-color: limegreen;
+}
+.red{
+  width: 15%;
+  background-color: #DB4D4D;
